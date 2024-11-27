@@ -4,6 +4,6 @@ This paper proposes an IoT and VLC-based smart streetlight system. The proposed 
 
 대한전자공학회 2024년도 추계학술대회 참가 논문
 
-https://conf.theieie.org/2024a/
+https://conf.theieie.org/2024f/
 
 (2024)
